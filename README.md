@@ -1,14 +1,7 @@
- The phrase ”freelancing” is most frequently used in the cultural and creative sectors.
- Stating the objectives of a hybrid freelancing system, such as improving accessibility,
- bridging the digital divide, and enhancing opportunities for freelancers in Bangladesh.
- The proposed website “SeekForServ” serves as a hybrid service system, providing both
- physical and online services by connecting customers with local service providers. It acts
- as a conduit, facilitating the discovery of location-based services through the platform.
- The website aims to benefit both service providers and customers by connecting them. As
- a result, this platform will provide opportunities to individuals who have a small budget,
- to begin with, or who wishes to work as an entrepreneur.
+# SeekForServ: A Novel Hybrid Service Model for Empowering Smart Societies.
 
-## Project Outcome:
+
+# Project Outcome:
  A hybrid freelancing system that is specifically tailored for Bangladesh is the goal of the
  project. This innovative platform will combine the advantages of online freelancing with
  localized services, connecting freelancers and clients within the country. The system will
@@ -20,14 +13,14 @@
  enables effective talent procurement for enterprises, and supports the expansion
  of Bangladesh’s freelance market.
 
- ## Functional and Nonfunctional Requirements:
- # Functional requirements:
- # Functional views for non-registered users:
+ # Functional and Nonfunctional Requirements:
+ ## Functional requirements:
+ ### Functional views for non-registered users:
  • The Normal visitors will be able to see the categories we will provide through our application
    cation and also get the information without logging into the system.
  • Accessing the function of the system is forbidden if no valid username and password
    of the user exists.
- # Functional views for registered users:
+ ### Functional views for registered users:
  • Asign-up form will be given to take the services as registered users.
  • Users must be able to see his/her personal information on the screen when they
    successfully log in.
@@ -35,13 +28,13 @@
  • Users will be able to take service by visiting the categories.
  • Users can see the nearest freelancer by tracking the location.
  
- # Functional views for registered service providers:
+ ### Functional views for registered service providers:
  • Asign-up form will be given to give the services as a registered service provider.
  • Must be able to see his/her personal information on the screen when he successfully
    logs in.
  • Able to see the service request.
  • Accept or remove the service request.
- # Non-Functional requirements:
+ ## Non-Functional requirements:
  • It should be run on a web server as it is a web-based application.
  • A user-friendly interface will be implemented for easy understanding of the functionality of the system.
  • User interface will be able to respond in a very few moments like 2-4 seconds.
@@ -52,7 +45,7 @@
  • Providing manuals that will help the users how to use the features of the system.
  • Fast response and handling multiple requests from the users at a time.
 
-# Detailed Methodology and Design:
+## Detailed Methodology and Design:
 
  The primary goal of building our service platform SeekForServ is to cater to the Bangladeshi
  audience and assist them in providing or seeking service from a specific website. The De
